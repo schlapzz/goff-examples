@@ -1,2 +1,4 @@
 image:
   tag: "latest"
+
+architecture: standalone
